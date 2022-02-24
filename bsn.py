@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-from file import token
-token()
+from file import reg2
+reg()
