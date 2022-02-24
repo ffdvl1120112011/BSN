@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-from file import reg
-reg()
+from file import crack
+crack()
