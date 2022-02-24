@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-from file import main
-main()
+from file import home
+home()
